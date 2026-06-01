@@ -29,9 +29,9 @@ This project analyzes sales data to identify trends, regional performance, produ
 - Sales Channel Analysis
 
 ## Dashboard
-<h2>Dashboard</h2>
+## Dashboard
 
-<img src="sales_dashboard.png.png" width="800">
+![Dashboard](sales_dashboard.png.png)
 
 ## Key Insights
 - Highest sales month: January
