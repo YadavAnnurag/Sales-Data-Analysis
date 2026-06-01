@@ -28,10 +28,6 @@ This project analyzes sales data to identify trends, regional performance, produ
 - Customer Type Analysis
 - Sales Channel Analysis
 
-## Dashboard
-
-![Dashboard](sales_dashboard.png.png)
-
 ## Key Insights
 - Highest sales month: January
 - Highest performing region: North
