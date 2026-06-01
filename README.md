@@ -29,7 +29,6 @@ This project analyzes sales data to identify trends, regional performance, produ
 - Sales Channel Analysis
 
 ## Dashboard
-## Dashboard
 
 ![Dashboard](sales_dashboard.png.png)
 
