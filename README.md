@@ -31,7 +31,7 @@ This project analyzes sales data to identify trends, regional performance, produ
 ## Dashboard
 <h2>Dashboard</h2>
 
-<img src="sales_dashboard.png" width="800">
+<img src="sales_dashboard.png.png" width="800">
 
 ## Key Insights
 - Highest sales month: January
